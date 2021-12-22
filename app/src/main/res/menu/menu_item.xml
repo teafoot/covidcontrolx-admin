@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/updateStatus"
+        android:icon="@drawable/ic_baseline_update_24"
+        android:title="Update Status"/>
+
+    <item android:id="@+id/codeScan"
+        android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+        android:title="QR scan"/>
+</menu>
